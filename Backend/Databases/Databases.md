@@ -6,7 +6,7 @@
 - How to get all the records from a table in SQL?
 - How to insert a record in SQL?
 
-
+---
 
 > _“The more we can organize, find, and manage information,
 > the more we can function in our modern world.”_
@@ -20,7 +20,7 @@
 
 - Example: **Hans Rosling’s** _200 countries, 200 years_ (YouTube video) explains how Human progress is easily visualized by organizing data in graphs.
 
----
+
 
 ## Structured Data
 
@@ -32,7 +32,7 @@ To learn better the importance of structured data, we need to understand why uns
 Here comes the role of **databases**:
 **Definition:** A database is a structured set of data held in a computer.
 
----
+
 
 ## Spreadsheet as Database
 
@@ -42,7 +42,7 @@ Here comes the role of **databases**:
   Each row contains data for one individual.  
   Each column contains data of one specific attribute.
 
----
+
 
 ## Relational Database Management System (RDBMS)
 
@@ -70,7 +70,7 @@ is a database organized according to the **relational model** of data.
 
 They all have the same underlying language: **SQL**.
 
----
+
 
 ## Other Structured Data Models
 
@@ -80,7 +80,7 @@ Besides RDBMS, other models exist:
 - Non-relational data storage.
 - Retrieved models (**NoSQL**).
 
----
+
 
 ## SQL
 
