@@ -10,7 +10,7 @@
 
 > _“The more we can organize, find, and manage information,
 > the more we can function in our modern world.”_
-> — \*\*V.Cerf
+> — *V.Cerf*
 
 ---
 
@@ -39,8 +39,8 @@ Here comes the role of **databases**:
 - **Spreadsheet** ↔️ **Database**
 - Worksheet ↔️ Tables
 - Rows and columns ↔️ Records and columns  
-  Each row contains data for one individual.  
-  Each column contains data of one specific attribute.
+Each row contains data for one individual.  
+Each column contains data of one specific attribute.
 
 
 
