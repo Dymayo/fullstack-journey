@@ -6,7 +6,7 @@
 - How to get all the records from a table in SQL?
 - How to insert a record in SQL?
 
----
+
 
 > _“The more we can organize, find, and manage information,
 > the more we can function in our modern world.”_
