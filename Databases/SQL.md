@@ -29,7 +29,7 @@
 - `FULL (OUTER) JOIN`: Returns all records when there is a match in either left or right table
 - **Self joins** : Sometimes, it may make sense for you to join a table to itself. In that case, you need to use table aliases to determine which data is from the "first"/"left" table.
 
-![[UI25E.jpg]]
+![venn diagram](/Databases/UI25E.jpg)
 
 ### Aggregating data:
 
